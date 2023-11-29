@@ -10,7 +10,7 @@ this project is shared without node_modules folder so you have to install all th
 open your command line
 go to both these directroies /frontend/task-manager-app/ and /backend
 execute npm install or npm i to install all the dependencys
-after installing all the dependencys you are ready to start the application:
+after installing all the dependencys you are ready to start the application:<br>
 to start the application run npm start in both directories.
 
 
