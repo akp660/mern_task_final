@@ -1,8 +1,8 @@
 
 You can preview the UI at https://mern-task-final-e2fk.vercel.app/Calendar    
 
-<H1>Setting up development environment</H1>
-<b>Prerequisites</b>
+<p><H1>Setting up development environment</H1></p>
+<b>Prerequisites</b><br>
 you need to have node.js installed in your machine
 <b>installing dependency</b>
 this project is shared without node_modules folder so you have to install all the the dependencys by your self.
