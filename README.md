@@ -11,9 +11,9 @@ open your command line
 go to both these directroies /frontend/task-manager-app/ and /backend
 execute npm install or npm i to install all the dependencys
 after installing all the dependencys you are ready to start the application:<br>
-to start the application run npm start in both directories.
+to start the application run npm start in both directories.<br>
 
 
-Screen Shot of this project.
+<h1>Screen Shot of this project.</h1>
 
 ![Frame 119](https://github.com/akp660/mern_task_final/assets/72183243/b2a66b05-d954-46fc-92ef-dda771cbff5a)
