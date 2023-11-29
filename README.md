@@ -8,10 +8,10 @@ you need to have node.js installed in your machine
 this project is shared without node_modules folder so you have to install all the the dependencys by yourself.<be>
 <h3>To install dependency:</h3>
 open your command line
-go to both these directroies /frontend/task-manager-app/ and /backend
+go to both these directroies <h3>/frontend/task-manager-app/ and /backend </h3> 
 execute npm install or npm i to install all the dependencys
 after installing all the dependencys you are ready to start the application:<br>
-to start the application run npm start in both directories.<br>
+to start the application run<h3> npm start </h3>in both directories.<br>
 
 
 <h1>Screen Shot of this project.</h1>
