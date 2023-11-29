@@ -2,11 +2,11 @@
 You can preview the UI at https://mern-task-final-e2fk.vercel.app/Calendar    
 
 <p><H1>Setting up development environment</H1></p>
-<h3>Prerequisites</h3><br>
-you need to have node.js installed in your machine<be>
-<h3>installing dependency</h3><br>
-this project is shared without node_modules folder so you have to install all the the dependencys by yourself.<br>
-to install dependency:
+<h3>Prerequisites</h3>
+you need to have node.js installed in your machine
+<h3>installing dependency</h3>
+this project is shared without node_modules folder so you have to install all the the dependencys by yourself.<be>
+<h3>to install dependency:</h3>
 open your command line
 go to both these directroies /frontend/task-manager-app/ and /backend
 execute npm install or npm i to install all the dependencys
